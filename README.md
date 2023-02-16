@@ -13,6 +13,8 @@ I am an Undergraduate Student. Just started my journey as Frontend Developer and
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fiaMrQT8LSDQZKS0qHKxUtVobT3_2zP4/view?usp=sharing](https://drive.google.com/file/d/1fiaMrQT8LSDQZKS0qHKxUtVobT3_2zP4/view?usp=sharing)
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishal-sangole-572300208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-sangole-572300208" height="30" width="40" /></a>

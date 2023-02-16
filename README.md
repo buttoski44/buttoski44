@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Sangole</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-I am an Undergraduate Student. Just started my journey as Frontend Developer and want to contribute and learn as much as i can. I like to Learn new tools and Technologies. Learnig is big part of my life .
+I am an Undergraduate Student. Just started my journey as Frontend Developer and want to contribute and learn as much as i can. I like to Learn new tools and Technologies. Learning is big part of my life .
 
 <hr>
 

@@ -11,7 +11,7 @@ I am an Undergraduate Student. Just started my journey as Frontend Developer and
 
 - 📫 How to reach me **wishalsangole4444@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fiaMrQT8LSDQZKS0qHKxUtVobT3_2zP4/view?usp=sharing](https://drive.google.com/file/d/1fiaMrQT8LSDQZKS0qHKxUtVobT3_2zP4/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1fiaMrQT8LSDQZKS0qHKxUtVobT3_2zP4/view?usp=sharing](https://drive.google.com/file/d/1fiaMrQT8LSDQZKS0qHKxUtVobT3_2zP4/view?usp=sharing) -->
 
 <hr>
 

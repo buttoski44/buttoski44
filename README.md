@@ -5,7 +5,7 @@ I am an Undergraduate Student. Just started my journey as Frontend Developer and
 
 <hr>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Express.js**
 
 - 💬 Ask me about **ReactJs**
 
